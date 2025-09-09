@@ -2,6 +2,7 @@
 
 **SynDRA** is a unified drug synonym mapping system designed to harmonize identifiers across major biomedical resources.  
 It bridges gaps between external drug sources and transcriptomic perturbation datasets such as **LINCS/CMap**, improving drug repurposing workflows by resolving inconsistent naming.
+<img src="https://github.com/hidelab/SynDRA/blob/main/SynDRA%20figure.png" alt="SynDRA Pipeline Overview" width="600">
 
 ---
 
